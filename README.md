@@ -1,8 +1,8 @@
 ![](https://shonharsh.github.io/curriculum-vitae/images/uipath-logo.png)
 
-# S00P00 Title
+# S06P02 Set Data
 
-This project is my solution in **C#** to the **Project Name** practice found in section 00 practice 00 of the UiPath - RPA Developer Foundation course.
+This project is my solution in **C#** to the **Set Data** practice found in section 06 practice 02 of the UiPath - RPA Developer Foundation course.
 
 ### Getting Started
 
@@ -12,11 +12,11 @@ After making a pull request or downloading the project, open the Main.xaml in Ui
 
 **Course:** UiPath - RPA Developer Foundation
 
-**Section:** 00 Section Name
+**Section:** 06 Selectors
 
-**Practice:** 00 Practice Name
+**Practice:** 02 Set Data
 
-**GitHub:** https://github.com/ShonHarsh/RPADev-S00P00-ProjectName
+**GitHub:** https://github.com/ShonHarsh/RPADev-S06P02-SetData
 
 Sample Output
 
@@ -66,7 +66,23 @@ Sample Output
 
 5. UI Automation With Studio
 
+   P01 [RPADev-S05P01-PasswordGenerator](https://github.com/ShonHarsh/RPADev-S05P01-PasswordGenerator)
+
+   P02 [RPADev-S05P02-TheRPAChallenge](https://github.com/ShonHarsh/RPADev-S05P02-TheRPAChallenge)
+
+   P03 [RPADev-S05P03-InputActions](https://github.com/ShonHarsh/RPADev-S05P03-InputActions)
+
+   P04 [RPADev-S05P04-OutputActions](https://github.com/ShonHarsh/RPADev-S05P04-OutputActions)
+
+   P05 [RPADev-S05P05-DataScraping](https://github.com/ShonHarsh/RPADev-S05P05-DataScraping)
+
 6. Selectors In Studio
+
+   P01 [RPADev-S06P01-GetAndSortData](https://github.com/ShonHarsh/RPADev-S06P01-GetAndSortData)
+
+   P02 [RPADev-S06P02-SetData](https://github.com/ShonHarsh/RPADev-S06P02-SetData)
+
+   P03 [RPADev-S06P03-Highlight-TypeItems](https://github.com/ShonHarsh/RPADev-S06P03-Highlight-TypeItems)
 
 7. Project Organization In Studio
 
@@ -90,7 +106,7 @@ Sample Output
 
 Clone the project to develop or change it.
 
-`git clone https://github.com/ShonHarsh/RPADev-S04P03-CalculatingPercentagesOfExpenses`
+`git clone https://github.com/ShonHarsh/RPADev-S06P02-SetData`
 
 ### Links
 
