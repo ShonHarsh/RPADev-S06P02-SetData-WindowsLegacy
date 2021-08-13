@@ -21,12 +21,15 @@ After making a pull request or downloading the project, open the Main.xaml in Ui
 Sample Output
 
 ```
-//ToDo
+08/13/2021 16:20:10 => [Debug] Execution started for project: RPADev-S06P02-SetData
+08/13/2021 16:20:12 => [Info] RPADev-S06P02-SetData execution started
+08/13/2021 16:21:07 => [Info] Audit: Using Web App. Browser: Chrome URL: http://www.rpachallenge.com/
+08/13/2021 16:21:57 => [Info] RPADev-S06P02-SetData execution ended in: 00:01:45
 ```
 
 ### Notes
 
-//Notes
+The robot reads a Microsoft Excel spreadsheet produced in the previous practice.  It also uses Google Chrome.
 
 ### RPA Developer Foundation Sections
 
