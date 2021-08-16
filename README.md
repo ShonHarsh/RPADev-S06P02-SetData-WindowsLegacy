@@ -31,6 +31,8 @@ Sample Output
 
 The robot reads a Microsoft Excel spreadsheet produced in the previous practice.  It also uses Google Chrome.
 
+Regarding the name field, the data scraped from the website in the previous section had some wonky text encoding or characters for the spaces.  This caused issues with the indexOf(" ") not matching.  I replaced the troublesome character with spaces in the source file.
+
 ### RPA Developer Foundation Sections
 
 1. Get Started With RPA Development
