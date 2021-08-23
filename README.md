@@ -91,6 +91,12 @@ Regarding the name field, the data scraped from the website in the previous sect
 
 7. Project Organization In Studio
 
+   P02 [RPADev-S07P02-StateMachines](https://github.com/ShonHarsh/RPADev-S07P02-StateMachines)
+
+   P03 [RPADev-S07P03-FixMyWorkflow](https://github.com/ShonHarsh/RPADev-S07P03-FixMyWorkflow)
+
+   P04 [RPADev-S07P04-Libraries](https://github.com/ShonHarsh/RPADev-S07P04-Libraries)
+
 8. Error And Exception Handling In Studio
 
 9. Debugging In Studio
