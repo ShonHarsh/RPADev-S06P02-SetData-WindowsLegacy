@@ -8,6 +8,17 @@ This project is my solution in **C#** to the **Set Data** practice found in sect
 
 After making a pull request or downloading the project, open the Main.xaml in UiPath Studio.  The robot can be run with the play button in the ribbon and the result can be seen in output pane.
 
+#### PRACTICE REQUIREMENTS
+
+###### **Practice 2 - Set Data**
+
+Create a workflow that fills in the fields of a website with organized data that will be taken from an Excel file provided herein. It contains the following data: CompanyName, RoleInCompany, Address, Email, FullName, PhoneNumber.
+
+**Notes**: 
+
+- The first and last name has to be obtained form the full name column of the excel file.
+- Use only anchor-based selectors for this exercise.
+
 ### Details
 
 **Course:** UiPath - RPA Developer Foundation
