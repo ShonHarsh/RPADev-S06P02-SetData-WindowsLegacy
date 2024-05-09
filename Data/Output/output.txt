@@ -1,0 +1,4 @@
+05/07/2024 18:27:31 => [Debug] Debug started for file: Main
+05/07/2024 18:27:32 => [Info] RPADev-S06P02-SetData-WindowsLegacy execution started
+05/07/2024 18:28:11 => [Debug] Audit: Using Web App. Browser: Chrome URL: http://www.rpachallenge.com/
+05/07/2024 18:28:46 => [Info] RPADev-S06P02-SetData-WindowsLegacy execution ended in: 00:01:14
